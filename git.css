@@ -1,0 +1,33 @@
+.se{
+    color: white;
+}
+body{
+    background-color: #330033;
+    background-color: #ffffff;
+background-image: url("https://i.gzn.jp/img/2020/11/05/github-source-code-leak/00.png");
+//background-color: red;
+background-attachment: fixed;
+background-size: cover;}
+
+.pp{
+    color: black;
+background-color: antiquewhite;
+border-radius: 5px;
+}
+button{
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    
+}
+img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    border-radius: 10px;
+}
